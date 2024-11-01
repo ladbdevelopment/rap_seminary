@@ -1,2 +1,2 @@
-# rap_seminary
-Seminario RAP Medellin
+# Seminario-COL-Medellin
+Seminario Colombia - Medellin
